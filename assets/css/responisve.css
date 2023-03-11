@@ -1,0 +1,119 @@
+@media only screen and (max-width: 1199px) {
+    .about .a_left h1 {
+        font-size: 58px !important;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .about .a_right {
+        padding-top: 0px;
+    }
+
+    .about .a_left {
+        padding: 50px 0px;
+        text-align: center;
+    }
+
+    .s_single .ss_icon img {
+        height: 22px;
+        width: 22px;
+    }
+
+    .s_single .ss_icon {
+        padding: 14px;
+    }
+
+    .s_single h5.s_name {
+        font-size: 18px;
+    }
+
+    h2.s_heading {
+        font-size: 32px;
+    }
+
+    .ui_single h5 {
+        font-size: 16px;
+    }
+
+    .motiondesign .motion_single img {
+        height: 200px;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+    .motiondesign .motion_single img {
+        height: 250px;
+    }
+
+    .motiondesign {
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+}
+
+@media only screen and (max-width: 575px) {
+
+    .about .a_left h1 {
+        font-size: 41px !important;
+    }
+
+    section.skills {
+        padding: 60px 0px;
+    }
+
+    section.work {
+        padding: 60px 0px;
+    }
+
+    h4.s_subheading {
+        padding-top: 40px;
+        font-size: 21px;
+    }
+
+    section.footer h4 {
+        font-size: 22px;
+    }
+
+    section.footer h5 {
+        max-width: 324px;
+    }
+
+    section.footer .social_icon {
+        padding: 32px 0px;
+    }
+
+    section.footer {
+        padding: 36px 0px;
+    }
+    section.menu_bar {
+        padding: 15px 15px;
+    }
+    h2.s_heading {
+        margin-bottom: 20px !important;
+    }
+
+    .motiondesign {
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .motiondesign .motion_single img {
+        height: 500px;
+    }
+
+    section.footer .social_icon img {
+        width: 56px;
+    }
+
+}
+
+@media only screen and (max-width: 360px) {
+
+    .motiondesign .motion_single img {
+        height: 250px;
+    }
+
+
+}
