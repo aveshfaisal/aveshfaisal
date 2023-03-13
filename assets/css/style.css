@@ -80,6 +80,10 @@ a:hover {
 
 /* indexpage css start  */
 
+div#test {
+    overflow: hidden;
+}
+
 .about .a_left {
     padding: 70px 0px;
 }
